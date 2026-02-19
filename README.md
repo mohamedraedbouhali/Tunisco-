@@ -1,4 +1,4 @@
-# 🇹🇳 Tunisco: The Ultimate Tunisian Travel Companion
+# Tunisco: The Ultimate Tunisian Travel Companion
 
 **Tunisco** is a high-performance, full-stack web application designed to bridge the gap between global travelers and the hidden gems of Tunisia. From the coastal beauty of Hammamet to the troglodyte houses of Matmata, Tunisco centralizes discovery, logistics, and itinerary planning.
 
