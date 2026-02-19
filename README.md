@@ -55,10 +55,3 @@ Interactive profiles for major destinations including **Tunis, Sousse, Djerba, T
 ├── auth/           # User authentication and session logic
 ├── database/       # .sql exports for environment setup
 └── index.php       # Main application entry point
-
----
-
-
-<br>
-<br>
-Developed with ❤️ for Tunisia.
